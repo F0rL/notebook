@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(superpowers:brainstorming)",
+      "Bash(dir \"E:\\\\notebook\\\\大模型\")"
+    ]
+  }
+}
