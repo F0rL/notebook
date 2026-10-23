@@ -34,6 +34,9 @@ author: kuma
 ### 6. verification-before-completion（完成前验证）
 在宣告任务完成前，自动检查是否所有需求都满足、边界情况是否覆盖、是否有回归问题。
 
+7.skills
+为多个工具统一管理[skills](https://www.npmjs.com/package/skills)
+
 ---
 
 ## 二、代码协作类

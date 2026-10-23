@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "后端开发/数据库知识全解.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "数据库知识全解"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "后端开发/数据库知识全解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,24 +214,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9507a1f31555ffee",
   "lastOpenFiles": [
+    "后端开发/nodejs/Prisma-ORM-最佳实践与技术指南.md",
+    "后端开发/nodejs/Node.js后端框架选型与基础库对比.md",
+    "后端开发/数据库知识全解.md",
+    "大模型/好用的大模型Skill汇总.md",
+    "后端开发/MySQL常用语法速查.md",
+    "后端开发/WSL2开发环境部署-MySQL+Redis.md",
+    "大模型/大模型核心概念与名词解释.md",
+    "大模型/Claude指令速查.md",
     "前端开发/Vue生态工具汇总.md",
     "前端开发/TanStack-Vue-Query简要文档.md",
     "前端开发/React生态工具汇总.md",
     "技术方案/小米电视影视聚合-豆瓣磁力迅雷云盘方案调研.md",
-    "后端开发/WSL2开发环境部署-MySQL+Redis.md",
-    "大模型/Claude指令速查.md",
-    "大模型/大模型核心概念与名词解释.md",
-    "大模型/好用的大模型Skill汇总.md",
     "前端开发/React开发指引教程.md",
     "海外要闻速览_2026-10-14.html",
     "新建文件夹",
     "AGENTS.md",
-    "后端开发/nodejs/Node.js后端框架选型与基础库对比.md",
-    "后端开发/nodejs/Prisma-ORM-最佳实践与技术指南.md",
-    "后端开发/MySQL常用语法速查.md",
-    "后端开发/数据库知识全解.md",
     "开发",
     "2026-05-18.md",
     "后端开发/nodejs/Prisma-ORM-最佳实践与技术指南.md.tmp.77012.268284d03c0a",
